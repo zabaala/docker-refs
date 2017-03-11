@@ -1,6 +1,6 @@
 <p align="center"><img src=115HU350-0.jpg alt="Logo" width=30%></p>
 
-<p align="center"><strong>Seja bem-vindo e, de antemão, parabéns!</strong></p>
+<h1 align="center"><strong>Seja bem-vindo e, de antemão, parabéns!</strong></h1>
 
 Se você chegou até aqui, é porque compartilhamos do interesse pelo mesmo assunto: **Docker**. 
 
