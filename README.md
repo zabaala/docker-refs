@@ -1,4 +1,8 @@
-Seja bem-vindo e, de antemão, parabéns! Se você chegou até aqui, é compartilhamos o interesse pelo mesmo assunto: Docker. 
+<p align="center"><img src=115HU350-0.jpg alt="Logo" width=30%></p>
+
+<p align="center"><strong>Seja bem-vindo e, de antemão, parabéns!</strong></p>
+
+Se você chegou até aqui, é porque compartilhamos do interesse pelo mesmo assunto: **Docker**. 
 
 Este repositório é um arcervo das pesquisas que venho fazendo sobre Docker. Aqui você vai encontrar links para artigos, palestras, cursos, livros, dicas e muitas outras coisas que me chamam atenção e/ou que estão relacionados aos projetos que venho trabalhando atualmente. Além disso, tenho interesse em abrir discussões sobre o assunto. Temos uma comunidade formada por grandes pessoas dispostas a distribuir o conhecimento que possui. Logo, fique à vontade e abra uma ISSUE, quando julgar  necessário.
 
@@ -20,7 +24,6 @@ Autor: Adrian Mouat
 Tradutor: Aldir José Coelho Corrêa da Silva
 ```
 
-[[Comprar]][link_livro_aprendendo_docker]
 [link_livro_aprendendo_docker]: https://www.amazon.com.br/dp/8575224921/ref=asc_df_85752249214885760?smid=A1ZZFT5FULY4LN&tag=goog0ef-20&linkCode=asn&creative=380341&creativeASIN=8575224921
 
 ## Entrega contínua
@@ -37,5 +40,4 @@ Palestrante: Camilo Ribeiro
 Tags: InfoQ
 ```
 
-[[Assistir]][link_palestra_entrega_continua]
 [link_palestra_entrega_continua]: https://www.infoq.com/br/presentations/pipelines-de-entrega-continua-multilinguagem-com-docker-e-jenkins
